@@ -11,7 +11,7 @@ Este proyecto es una aplicación de lector de códigos QR desarrollada con TypeS
 
 1. Clona el repositorio:
     ```bash
-    git clone https://github.com/tonovarela/lectorqr-ts.git
+    git clone https://github.com/tonovarela/lector-constanciasSAT.git
     ```
 2. Navega al directorio del proyecto:
     ```bash
