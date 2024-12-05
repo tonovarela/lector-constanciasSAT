@@ -1,0 +1,1 @@
+export interface InfoSAT { [key: string]: string | string[] }
